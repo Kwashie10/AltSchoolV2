@@ -536,8 +536,8 @@
   @media screen and (min-width: 1000px) {
     .form {
       background-color: #1e3448;
-      background-image: url('./images/form.svg'),
-        url('./images/form1.svg');
+      background-image: url('./images/blue\ 3.png'),
+        url('./images/blue\ 2.png');
       background-position: left bottom, right bottom;
       background-repeat: no-repeat, no-repeat;
     }
@@ -603,8 +603,8 @@
   
   @media screen and (min-width: 1000px) {
     .questions {
-      background-image: url('./images/faqs\ 3.svg'),
-        url('./images/left.svg');
+      background-image: url('./images/faq1\ .png'),
+        url('./images/faq2.png');
       background-position: top left, right bottom;
       background-repeat: no-repeat, no-repeat;
     }
@@ -721,8 +721,8 @@
   @media screen and (min-width: 1000px) {
     .optimize {
       background-color: #1e3448;
-      background-image: url('./images/Group\ 4.svg'),
-        url('./images/Group\ 7.svg');
+      background-image: url('./images/rlo.png'),
+        url('./images/rlo2.png');
       background-position: top left, right bottom;
       background-repeat: no-repeat, no-repeat;
     }
@@ -736,8 +736,8 @@
   
   @media screen and (min-width: 1000px) {
     .footer {
-      background-image: url('./images/footer.svg'),
-        url('./images/footer2.svg');
+      background-image: url('./images/footer1.png'),
+        url('./images/footer2.png');
       background-position: bottom left, right bottom;
       background-repeat: no-repeat, no-repeat;
     }
